@@ -2,7 +2,7 @@
 
 # Abstract
 
-​	In 2017, there were 17,799 accidents on Swiss roads causing bodily injuries. Even though the number of victims is decreasing since 25 last years, Switzerland still faces more than 20,000 victims each year. In this data story, we try to investigate three main factors influencing car accidents: driver profile, accident per canton and car type. Identifying which profiles are more dangerous is an interesting result for policy makers and insurance companies, considering an annual cost of car accidents equal to 4 billion francs. Factors of difference between each profile are also a targeted, to tackle the issue at its roots. Furthermore, swiss cantons benefit from a high political responsibility. Studying the distribution of accidents at this scale is therefore valuable, as well as their potential cultural factors based on past votings. Finally, a study of vehicle type influence on accidents is also carried out. All datasets used in this study were collected on Federal Statistical Office website.
+​	In 2017, there were 17,799 accidents on Swiss roads causing body injuries. Even though the number of victims is decreasing since 25 years, Switzerland still faces around 20,000 victims each year. In this data story, we try to investigate three main factors influencing car accidents: driver profile, accident per canton and car type. Identifying which profiles are more dangerous is an interesting result for policy makers and insurance companies, considering an annual cost of car accidents equal to 4 billion francs. Factors of difference between each profile are also a targeted, to tackle the issue at its roots. Furthermore, Swiss cantons benefit from a high political responsibility. Studying the distribution of accidents at this scale is therefore valuable, as well as their potential cultural factors based on past votings (e.g. which cantons voted for or against higher speed limitations or the obligation to put the seat belts on). Finally, a study of the vehicle type's influence on accidents is also carried out. All datasets used in this study were collected on the Federal Statistical Office website.
 
 # Research questions
 
@@ -19,7 +19,7 @@
 
 # Dataset
 
-​	We would like to use multiple datasets about driving accidents in Switzerland. Most of them were found on Federal Statistical Office website. 
+​	We would like to use multiple datasets about driving accidents in Switzerland. Most of them were found on the Federal Statistical Office website. 
 
 The main dataset is gathering swiss aggregated data about car accidents according to various factors such as driver's and victim's profile, road type and condition, causes of accident, state of the driver and road signs. This overall dataset contains about 5 million data, and has been split into 4 sub-datasets by the SFO. As a result the first step will be to identify and merge columns of interest from these four tables, and exclude useless and heavy additional data from the processed dataframe. 
 
@@ -34,10 +34,11 @@ When comparing drivers' profiles, we would like to use proportions of the popula
 
 - [Population résidante permanente et non permanente selon le canton, le sexe, l'état civil et l'âge](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_102/-/px-x-0102010000_102.px)
 
-In a second part, we would like to study geographical distribution of car accidents, therefore two datasets have been selected. One is relating car accident victims to cantons over last 25 years, and another one is providing insecurity data in swiss towns, includind car accidents. An interesting outcome concerning city versus country-side might be found. 
+In a second part, we would like to study geographical distribution of car accidents. We therefore selected two datasets selected. One is relating car accident victims to cantons over the last 25 years, and another one is providing insecurity data in swiss towns, includind car accidents. An interesting outcome concerning city versus country-side might be found. 
 
 - [Accidents de la circulation routière: accidents avec victimes par canton](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_101/-/px-x-1106010100_101.px)
 - [Qualité de vie dans les villes et agglomérations (agglo 2000): sécurité personnelle](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-2105000000_107/-/px-x-2105000000_107.px) 
+
 Then, the results of votations per cantons would also be collected and processed to be compared to accidents per cantons. Indeed, a correlation might be found between cantons voting against road safety, and quantity of accidents. This dataset however contains data for all  swiss votations, therefore it should be first cleaned to have only votings about road safety occuring in sufficiently recent years to still make sense today. 
 - [Votations populaires (résultats au niveau des cantons depuis 1866)](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1703030000_100/-/px-x-1703030000_100.px )
 - [Initiative populaire fédérale 'pour plus de sécurité à l'intérieur des localités grâce à une vitesse maximale de 30 km/h assortie d'exceptions (Rues pour tous)'](https://www.admin.ch/ch/f//pore/vi/vis271.html)
