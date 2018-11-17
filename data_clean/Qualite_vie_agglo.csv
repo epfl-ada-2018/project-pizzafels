@@ -1,0 +1,302 @@
+,agglo_index,agglo,type_index,type,2011,2012,2013,2014
+0,230901.0,Winterthour: ville-centre,2.0,Homicides,0.0,0.0,0.0,2.0
+1,230901.0,Winterthour: ville-centre,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.02
+2,230901.0,Winterthour: ville-centre,4.0,Vols de voitures,14.0,11.0,5.0,9.0
+3,230901.0,Winterthour: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.14,0.11,0.05,0.09
+4,230901.0,Winterthour: ville-centre,6.0,Vols par effraction dans les logements,267.0,196.0,256.0,159.0
+5,230901.0,Winterthour: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,2.64,1.9,2.45,1.5
+6,230901.0,Winterthour: ville-centre,8.0,Personnes tuées dans les accidents de la route,0.0,1.0,2.0,0.0
+7,230901.0,Winterthour: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.1,0.19,0.0
+8,230901.0,Winterthour: ville-centre,10.0,Blessés graves dans les accidents de la route,19.0,18.0,23.0,19.0
+9,230901.0,Winterthour: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,1.88,1.75,2.2,1.8
+10,230910.0,Winterthour: ceinture de l'agglomération,2.0,Homicides,0.0,0.0,0.0,0.0
+11,230910.0,Winterthour: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.0
+12,230910.0,Winterthour: ceinture de l'agglomération,4.0,Vols de voitures,4.0,4.0,3.0,2.0
+13,230910.0,Winterthour: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.1,0.1,0.07,0.05
+14,230910.0,Winterthour: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,75.0,88.0,93.0,45.0
+15,230910.0,Winterthour: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.94,2.24,2.28,1.09
+16,230910.0,Winterthour: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,0.0,1.0,0.0,0.0
+17,230910.0,Winterthour: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.25,0.0,0.0
+18,230910.0,Winterthour: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,16.0,22.0,7.0,13.0
+19,230910.0,Winterthour: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.15,5.6,1.72,3.15
+20,230920.0,Winterthour: agglomération,2.0,Homicides,0.0,0.0,0.0,2.0
+21,230920.0,Winterthour: agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.01
+22,230920.0,Winterthour: agglomération,4.0,Vols de voitures,18.0,15.0,8.0,11.0
+23,230920.0,Winterthour: agglomération,5.0,Vols de voitures pour 1000 habitants,0.13,0.11,0.06,0.07
+24,230920.0,Winterthour: agglomération,6.0,Vols par effraction dans les logements,342.0,284.0,349.0,204.0
+25,230920.0,Winterthour: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,2.45,1.99,2.4,1.39
+26,230920.0,Winterthour: agglomération,8.0,Personnes tuées dans les accidents de la route,0.0,2.0,2.0,0.0
+27,230920.0,Winterthour: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.14,0.14,0.0
+28,230920.0,Winterthour: agglomération,10.0,Blessés graves dans les accidents de la route,35.0,40.0,30.0,32.0
+29,230920.0,Winterthour: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,2.5,2.81,2.07,2.18
+30,261901.0,Zurich: ville-centre,2.0,Homicides,1.0,2.0,0.0,2.0
+31,261901.0,Zurich: ville-centre,3.0,Homicides pour 10'000 habitants,0.03,0.05,0.0,0.01
+32,261901.0,Zurich: ville-centre,4.0,Vols de voitures,79.0,84.0,78.0,45.0
+33,261901.0,Zurich: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.21,0.22,0.2,0.12
+34,261901.0,Zurich: ville-centre,6.0,Vols par effraction dans les logements,1353.0,2190.0,1117.0,1003.0
+35,261901.0,Zurich: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,3.63,5.81,2.93,2.61
+36,261901.0,Zurich: ville-centre,8.0,Personnes tuées dans les accidents de la route,12.0,6.0,10.0,4.0
+37,261901.0,Zurich: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.32,0.16,0.26,0.1
+38,261901.0,Zurich: ville-centre,10.0,Blessés graves dans les accidents de la route,218.0,240.0,247.0,200.0
+39,261901.0,Zurich: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.85,6.37,6.49,5.2
+40,261910.0,Zurich: ceinture de l'agglomération,2.0,Homicides,1.0,4.0,3.0,6.0
+41,261910.0,Zurich: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.01,0.05,0.04,0.01
+42,261910.0,Zurich: ceinture de l'agglomération,4.0,Vols de voitures,158.0,178.0,127.0,81.0
+43,261910.0,Zurich: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.19,0.22,0.15,0.1
+44,261910.0,Zurich: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,1572.0,1930.0,1789.0,1639.0
+45,261910.0,Zurich: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.93,2.33,2.14,1.93
+46,261910.0,Zurich: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,22.0,27.0,20.0,22.0
+47,261910.0,Zurich: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.27,0.33,0.24,0.26
+48,261910.0,Zurich: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,356.0,308.0,317.0,325.0
+49,261910.0,Zurich: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.36,3.72,3.79,3.83
+50,261920.0,Zurich: agglomération,2.0,Homicides,2.0,6.0,3.0,8.0
+51,261920.0,Zurich: agglomération,3.0,Homicides pour 10'000 habitants,0.02,0.05,0.02,0.01
+52,261920.0,Zurich: agglomération,4.0,Vols de voitures,237.0,262.0,205.0,126.0
+53,261920.0,Zurich: agglomération,5.0,Vols de voitures pour 1000 habitants,0.2,0.22,0.17,0.1
+54,261920.0,Zurich: agglomération,6.0,Vols par effraction dans les logements,2925.0,4120.0,2906.0,2642.0
+55,261920.0,Zurich: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,2.46,3.42,2.39,2.14
+56,261920.0,Zurich: agglomération,8.0,Personnes tuées dans les accidents de la route,34.0,33.0,30.0,26.0
+57,261920.0,Zurich: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.29,0.27,0.25,0.21
+58,261920.0,Zurich: agglomération,10.0,Blessés graves dans les accidents de la route,574.0,548.0,564.0,525.0
+59,261920.0,Zurich: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.83,4.55,4.63,4.26
+60,351901.0,Berne: ville-centre,2.0,Homicides,0.0,0.0,3.0,0.0
+61,351901.0,Berne: ville-centre,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.24,0.0
+62,351901.0,Berne: ville-centre,4.0,Vols de voitures,26.0,17.0,18.0,13.0
+63,351901.0,Berne: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.21,0.14,0.14,0.1
+64,351901.0,Berne: ville-centre,6.0,Vols par effraction dans les logements,721.0,559.0,616.0,303.0
+65,351901.0,Berne: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,5.8,4.45,4.83,2.35
+66,351901.0,Berne: ville-centre,8.0,Personnes tuées dans les accidents de la route,10.0,3.0,3.0,0.0
+67,351901.0,Berne: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.8,0.24,0.24,0.0
+68,351901.0,Berne: ville-centre,10.0,Blessés graves dans les accidents de la route,41.0,42.0,50.0,57.0
+69,351901.0,Berne: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,3.3,3.34,3.92,4.42
+70,351910.0,Berne: ceinture de l'agglomération,2.0,Homicides,1.0,1.0,2.0,0.0
+71,351910.0,Berne: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.04,0.04,0.09,0.0
+72,351910.0,Berne: ceinture de l'agglomération,4.0,Vols de voitures,26.0,29.0,28.0,35.0
+73,351910.0,Berne: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.11,0.13,0.12,0.15
+74,351910.0,Berne: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,449.0,685.0,562.0,333.0
+75,351910.0,Berne: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.96,2.97,2.44,1.43
+76,351910.0,Berne: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,7.0,6.0,4.0,0.0
+77,351910.0,Berne: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.31,0.26,0.17,0.0
+78,351910.0,Berne: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,60.0,77.0,95.0,93.0
+79,351910.0,Berne: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,2.62,3.34,4.13,3.99
+80,351920.0,Berne: agglomération,2.0,Homicides,1.0,1.0,5.0,0.0
+81,351920.0,Berne: agglomération,3.0,Homicides pour 10'000 habitants,0.03,0.03,0.14,0.0
+82,351920.0,Berne: agglomération,4.0,Vols de voitures,52.0,46.0,46.0,48.0
+83,351920.0,Berne: agglomération,5.0,Vols de voitures pour 1000 habitants,0.15,0.13,0.13,0.13
+84,351920.0,Berne: agglomération,6.0,Vols par effraction dans les logements,1170.0,1244.0,1178.0,636.0
+85,351920.0,Berne: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,3.31,3.49,3.29,1.76
+86,351920.0,Berne: agglomération,8.0,Personnes tuées dans les accidents de la route,17.0,9.0,7.0,0.0
+87,351920.0,Berne: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.48,0.25,0.2,0.0
+88,351920.0,Berne: agglomération,10.0,Blessés graves dans les accidents de la route,101.0,119.0,145.0,150.0
+89,351920.0,Berne: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,2.86,3.34,4.05,4.15
+90,371901.0,Biel/Bienne: ville-centre,2.0,Homicides,2.0,0.0,0.0,0.0
+91,371901.0,Biel/Bienne: ville-centre,3.0,Homicides pour 10'000 habitants,0.39,0.0,0.0,0.0
+92,371901.0,Biel/Bienne: ville-centre,4.0,Vols de voitures,22.0,15.0,18.0,17.0
+93,371901.0,Biel/Bienne: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.43,0.29,0.34,0.32
+94,371901.0,Biel/Bienne: ville-centre,6.0,Vols par effraction dans les logements,219.0,223.0,226.0,198.0
+95,371901.0,Biel/Bienne: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,4.28,4.32,4.32,3.73
+96,371901.0,Biel/Bienne: ville-centre,8.0,Personnes tuées dans les accidents de la route,2.0,1.0,2.0,0.0
+97,371901.0,Biel/Bienne: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.39,0.19,0.38,0.0
+98,371901.0,Biel/Bienne: ville-centre,10.0,Blessés graves dans les accidents de la route,35.0,28.0,25.0,34.0
+99,371901.0,Biel/Bienne: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,6.84,5.42,4.78,6.41
+100,371910.0,Biel/Bienne: ceinture de l'agglomération,2.0,Homicides,0.0,0.0,0.0,0.0
+101,371910.0,Biel/Bienne: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.0
+102,371910.0,Biel/Bienne: ceinture de l'agglomération,4.0,Vols de voitures,12.0,12.0,10.0,5.0
+103,371910.0,Biel/Bienne: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.29,0.29,0.24,0.12
+104,371910.0,Biel/Bienne: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,146.0,106.0,175.0,115.0
+105,371910.0,Biel/Bienne: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,3.56,2.57,4.2,2.72
+106,371910.0,Biel/Bienne: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,1.0,1.0,0.0,0.0
+107,371910.0,Biel/Bienne: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.24,0.24,0.0,0.0
+108,371910.0,Biel/Bienne: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,28.0,14.0,29.0,21.0
+109,371910.0,Biel/Bienne: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,6.83,3.39,6.96,4.98
+110,371920.0,Biel/Bienne: agglomération,2.0,Homicides,2.0,0.0,0.0,0.0
+111,371920.0,Biel/Bienne: agglomération,3.0,Homicides pour 10'000 habitants,0.22,0.0,0.0,0.0
+112,371920.0,Biel/Bienne: agglomération,4.0,Vols de voitures,34.0,27.0,28.0,22.0
+113,371920.0,Biel/Bienne: agglomération,5.0,Vols de voitures pour 1000 habitants,0.37,0.29,0.3,0.23
+114,371920.0,Biel/Bienne: agglomération,6.0,Vols par effraction dans les logements,365.0,329.0,401.0,313.0
+115,371920.0,Biel/Bienne: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,3.96,3.54,4.27,3.29
+116,371920.0,Biel/Bienne: agglomération,8.0,Personnes tuées dans les accidents de la route,3.0,2.0,2.0,0.0
+117,371920.0,Biel/Bienne: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.33,0.22,0.21,0.0
+118,371920.0,Biel/Bienne: agglomération,10.0,Blessés graves dans les accidents de la route,63.0,42.0,54.0,55.0
+119,371920.0,Biel/Bienne: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,6.83,4.52,5.74,5.78
+120,1061901.0,Lucerne: ville-centre,2.0,Homicides,0.0,0.0,0.0,1.0
+121,1061901.0,Lucerne: ville-centre,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.01
+122,1061901.0,Lucerne: ville-centre,4.0,Vols de voitures,20.0,25.0,9.0,14.0
+123,1061901.0,Lucerne: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.26,0.32,0.11,0.17
+124,1061901.0,Lucerne: ville-centre,6.0,Vols par effraction dans les logements,262.0,219.0,287.0,228.0
+125,1061901.0,Lucerne: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,3.38,2.8,3.61,2.83
+126,1061901.0,Lucerne: ville-centre,8.0,Personnes tuées dans les accidents de la route,4.0,2.0,2.0,0.0
+127,1061901.0,Lucerne: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.52,0.26,0.25,0.0
+128,1061901.0,Lucerne: ville-centre,10.0,Blessés graves dans les accidents de la route,44.0,40.0,43.0,35.0
+129,1061901.0,Lucerne: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.68,5.12,5.41,4.35
+130,1061910.0,Lucerne: ceinture de l'agglomération,2.0,Homicides,1.0,0.0,0.0,1.0
+131,1061910.0,Lucerne: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.08,0.0,0.0,0.01
+132,1061910.0,Lucerne: ceinture de l'agglomération,4.0,Vols de voitures,34.0,19.0,15.0,15.0
+133,1061910.0,Lucerne: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.26,0.14,0.11,0.11
+134,1061910.0,Lucerne: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,219.0,203.0,299.0,270.0
+135,1061910.0,Lucerne: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.66,1.52,2.22,1.99
+136,1061910.0,Lucerne: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,3.0,5.0,2.0,2.0
+137,1061910.0,Lucerne: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.23,0.37,0.15,0.15
+138,1061910.0,Lucerne: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,50.0,45.0,70.0,51.0
+139,1061910.0,Lucerne: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,3.78,3.37,5.19,3.76
+140,1061920.0,Lucerne: agglomération,2.0,Homicides,1.0,0.0,0.0,2.0
+141,1061920.0,Lucerne: agglomération,3.0,Homicides pour 10'000 habitants,0.05,0.0,0.0,0.01
+142,1061920.0,Lucerne: agglomération,4.0,Vols de voitures,54.0,44.0,24.0,29.0
+143,1061920.0,Lucerne: agglomération,5.0,Vols de voitures pour 1000 habitants,0.26,0.21,0.11,0.13
+144,1061920.0,Lucerne: agglomération,6.0,Vols par effraction dans les logements,481.0,422.0,586.0,498.0
+145,1061920.0,Lucerne: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,2.29,1.99,2.74,2.3
+146,1061920.0,Lucerne: agglomération,8.0,Personnes tuées dans les accidents de la route,7.0,7.0,4.0,2.0
+147,1061920.0,Lucerne: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.33,0.33,0.19,0.09
+148,1061920.0,Lucerne: agglomération,10.0,Blessés graves dans les accidents de la route,94.0,85.0,113.0,86.0
+149,1061920.0,Lucerne: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.48,4.01,5.27,3.98
+150,2701901.0,Bâle: ville-centre,2.0,Homicides,1.0,3.0,1.0,3.0
+151,2701901.0,Bâle: ville-centre,3.0,Homicides pour 10'000 habitants,0.06,0.18,0.06,0.02
+152,2701901.0,Bâle: ville-centre,4.0,Vols de voitures,76.0,58.0,43.0,28.0
+153,2701901.0,Bâle: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.47,0.35,0.26,0.17
+154,2701901.0,Bâle: ville-centre,6.0,Vols par effraction dans les logements,469.0,772.0,575.0,476.0
+155,2701901.0,Bâle: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,2.87,4.69,3.47,2.84
+156,2701901.0,Bâle: ville-centre,8.0,Personnes tuées dans les accidents de la route,3.0,5.0,2.0,1.0
+157,2701901.0,Bâle: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.18,0.3,0.12,0.06
+158,2701901.0,Bâle: ville-centre,10.0,Blessés graves dans les accidents de la route,84.0,73.0,73.0,83.0
+159,2701901.0,Bâle: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.15,4.44,4.41,4.96
+160,2701910.0,Bâle: ceinture suisse de l'agglomération,2.0,Homicides,1.0,5.0,1.0,2.0
+161,2701910.0,Bâle: ceinture suisse de l'agglomération,3.0,Homicides pour 10'000 habitants,0.03,0.15,0.03,0.01
+162,2701910.0,Bâle: ceinture suisse de l'agglomération,4.0,Vols de voitures,88.0,61.0,55.0,68.0
+163,2701910.0,Bâle: ceinture suisse de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.26,0.18,0.16,0.2
+164,2701910.0,Bâle: ceinture suisse de l'agglomération,6.0,Vols par effraction dans les logements,657.0,1021.0,1231.0,1080.0
+165,2701910.0,Bâle: ceinture suisse de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.96,3.04,3.64,3.16
+166,2701910.0,Bâle: ceinture suisse de l'agglomération,8.0,Personnes tuées dans les accidents de la route,13.0,13.0,5.0,9.0
+167,2701910.0,Bâle: ceinture suisse de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.39,0.39,0.15,0.26
+168,2701910.0,Bâle: ceinture suisse de l'agglomération,10.0,Blessés graves dans les accidents de la route,156.0,111.0,107.0,120.0
+169,2701910.0,Bâle: ceinture suisse de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.66,3.3,3.16,3.52
+170,2701920.0,Bâle: agglomération nationale,2.0,Homicides,2.0,8.0,2.0,5.0
+171,2701920.0,Bâle: agglomération nationale,3.0,Homicides pour 10'000 habitants,0.04,0.16,0.04,0.01
+172,2701920.0,Bâle: agglomération nationale,4.0,Vols de voitures,164.0,119.0,98.0,96.0
+173,2701920.0,Bâle: agglomération nationale,5.0,Vols de voitures pour 1000 habitants,0.33,0.24,0.19,0.19
+174,2701920.0,Bâle: agglomération nationale,6.0,Vols par effraction dans les logements,1126.0,1793.0,1806.0,1556.0
+175,2701920.0,Bâle: agglomération nationale,7.0,Vols par effraction dans les logements pour 1000 habitants,2.26,3.58,3.58,3.06
+176,2701920.0,Bâle: agglomération nationale,8.0,Personnes tuées dans les accidents de la route,16.0,18.0,7.0,10.0
+177,2701920.0,Bâle: agglomération nationale,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.32,0.36,0.14,0.2
+178,2701920.0,Bâle: agglomération nationale,10.0,Blessés graves dans les accidents de la route,240.0,184.0,180.0,203.0
+179,2701920.0,Bâle: agglomération nationale,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.82,3.68,3.57,3.99
+180,3203901.0,St-Gall: ville-centre,2.0,Homicides,2.0,0.0,0.0,1.0
+181,3203901.0,St-Gall: ville-centre,3.0,Homicides pour 10'000 habitants,0.27,0.0,0.0,0.01
+182,3203901.0,St-Gall: ville-centre,4.0,Vols de voitures,11.0,19.0,10.0,11.0
+183,3203901.0,St-Gall: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.15,0.26,0.13,0.15
+184,3203901.0,St-Gall: ville-centre,6.0,Vols par effraction dans les logements,144.0,196.0,151.0,167.0
+185,3203901.0,St-Gall: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,1.97,2.67,2.04,2.24
+186,3203901.0,St-Gall: ville-centre,8.0,Personnes tuées dans les accidents de la route,0.0,2.0,2.0,0.0
+187,3203901.0,St-Gall: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.27,0.27,0.0
+188,3203901.0,St-Gall: ville-centre,10.0,Blessés graves dans les accidents de la route,24.0,24.0,22.0,26.0
+189,3203901.0,St-Gall: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,3.29,3.27,2.97,3.49
+190,3203910.0,St-Gall: ceinture de l'agglomération,2.0,Homicides,0.0,0.0,0.0,0.0
+191,3203910.0,St-Gall: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.0
+192,3203910.0,St-Gall: ceinture de l'agglomération,4.0,Vols de voitures,7.0,12.0,10.0,12.0
+193,3203910.0,St-Gall: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.09,0.15,0.13,0.15
+194,3203910.0,St-Gall: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,59.0,119.0,105.0,79.0
+195,3203910.0,St-Gall: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,0.76,1.53,1.34,1.0
+196,3203910.0,St-Gall: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,0.0,1.0,0.0,0.0
+197,3203910.0,St-Gall: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.13,0.0,0.0
+198,3203910.0,St-Gall: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,44.0,30.0,24.0,20.0
+199,3203910.0,St-Gall: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.69,3.85,3.07,2.54
+200,3203920.0,St-Gall: agglomération,2.0,Homicides,2.0,0.0,0.0,1.0
+201,3203920.0,St-Gall: agglomération,3.0,Homicides pour 10'000 habitants,0.13,0.0,0.0,0.01
+202,3203920.0,St-Gall: agglomération,4.0,Vols de voitures,18.0,31.0,20.0,23.0
+203,3203920.0,St-Gall: agglomération,5.0,Vols de voitures pour 1000 habitants,0.12,0.2,0.13,0.15
+204,3203920.0,St-Gall: agglomération,6.0,Vols par effraction dans les logements,203.0,315.0,256.0,246.0
+205,3203920.0,St-Gall: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,1.35,2.08,1.68,1.6
+206,3203920.0,St-Gall: agglomération,8.0,Personnes tuées dans les accidents de la route,0.0,3.0,2.0,0.0
+207,3203920.0,St-Gall: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.0,0.2,0.13,0.0
+208,3203920.0,St-Gall: agglomération,10.0,Blessés graves dans les accidents de la route,68.0,54.0,46.0,46.0
+209,3203920.0,St-Gall: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.53,3.57,3.02,3.0
+210,5192901.0,Lugano: ville-centre,2.0,Homicides,0.0,0.0,0.0,0.0
+211,5192901.0,Lugano: ville-centre,3.0,Homicides pour 10'000 habitants,0.0,0.0,0.0,0.0
+212,5192901.0,Lugano: ville-centre,4.0,Vols de voitures,15.0,18.0,20.0,13.0
+213,5192901.0,Lugano: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.27,0.33,0.32,0.21
+214,5192901.0,Lugano: ville-centre,6.0,Vols par effraction dans les logements,214.0,163.0,270.0,235.0
+215,5192901.0,Lugano: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,3.91,2.96,4.37,3.74
+216,5192901.0,Lugano: ville-centre,8.0,Personnes tuées dans les accidents de la route,1.0,2.0,1.0,2.0
+217,5192901.0,Lugano: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.18,0.36,0.16,0.32
+218,5192901.0,Lugano: ville-centre,10.0,Blessés graves dans les accidents de la route,60.0,48.0,35.0,42.0
+219,5192901.0,Lugano: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,10.98,8.7,5.66,6.69
+220,5192910.0,Lugano: ceinture de l'agglomération,2.0,Homicides,0.0,1.0,0.0,0.0
+221,5192910.0,Lugano: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.13,0.0,0.0
+222,5192910.0,Lugano: ceinture de l'agglomération,4.0,Vols de voitures,16.0,17.0,17.0,12.0
+223,5192910.0,Lugano: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.2,0.21,0.22,0.15
+224,5192910.0,Lugano: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,194.0,262.0,250.0,171.0
+225,5192910.0,Lugano: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,2.47,3.3,3.28,2.19
+226,5192910.0,Lugano: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,4.0,2.0,1.0,0.0
+227,5192910.0,Lugano: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.51,0.25,0.13,0.0
+228,5192910.0,Lugano: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,86.0,75.0,81.0,60.0
+229,5192910.0,Lugano: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,10.96,9.44,10.63,7.7
+230,5192920.0,Lugano: agglomération,2.0,Homicides,0.0,1.0,0.0,0.0
+231,5192920.0,Lugano: agglomération,3.0,Homicides pour 10'000 habitants,0.0,0.07,0.0,0.0
+232,5192920.0,Lugano: agglomération,4.0,Vols de voitures,31.0,35.0,37.0,25.0
+233,5192920.0,Lugano: agglomération,5.0,Vols de voitures pour 1000 habitants,0.23,0.26,0.27,0.18
+234,5192920.0,Lugano: agglomération,6.0,Vols par effraction dans les logements,408.0,425.0,520.0,406.0
+235,5192920.0,Lugano: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,3.06,3.16,3.77,2.89
+236,5192920.0,Lugano: agglomération,8.0,Personnes tuées dans les accidents de la route,5.0,4.0,2.0,2.0
+237,5192920.0,Lugano: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.38,0.3,0.14,0.14
+238,5192920.0,Lugano: agglomération,10.0,Blessés graves dans les accidents de la route,146.0,123.0,116.0,102.0
+239,5192920.0,Lugano: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,10.96,9.14,8.4,7.25
+240,5586901.0,Lausanne: ville-centre,2.0,Homicides,1.0,1.0,0.0,1.0
+241,5586901.0,Lausanne: ville-centre,3.0,Homicides pour 10'000 habitants,0.08,0.08,0.0,0.01
+242,5586901.0,Lausanne: ville-centre,4.0,Vols de voitures,5.0,60.0,41.0,47.0
+243,5586901.0,Lausanne: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.04,0.46,0.31,0.35
+244,5586901.0,Lausanne: ville-centre,6.0,Vols par effraction dans les logements,931.0,1238.0,1259.0,1345.0
+245,5586901.0,Lausanne: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,7.28,9.57,9.65,10.13
+246,5586901.0,Lausanne: ville-centre,8.0,Personnes tuées dans les accidents de la route,4.0,1.0,1.0,2.0
+247,5586901.0,Lausanne: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.31,0.08,0.08,0.15
+248,5586901.0,Lausanne: ville-centre,10.0,Blessés graves dans les accidents de la route,69.0,78.0,75.0,65.0
+249,5586901.0,Lausanne: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.4,6.03,5.75,4.9
+250,5586910.0,Lausanne: ceinture de l'agglomération,2.0,Homicides,1.0,3.0,1.0,2.0
+251,5586910.0,Lausanne: ceinture de l'agglomération,3.0,Homicides pour 10'000 habitants,0.05,0.14,0.05,0.01
+252,5586910.0,Lausanne: ceinture de l'agglomération,4.0,Vols de voitures,0.0,61.0,55.0,72.0
+253,5586910.0,Lausanne: ceinture de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.0,0.29,0.26,0.33
+254,5586910.0,Lausanne: ceinture de l'agglomération,6.0,Vols par effraction dans les logements,1296.0,1549.0,1288.0,1387.0
+255,5586910.0,Lausanne: ceinture de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,6.2,7.28,5.99,6.34
+256,5586910.0,Lausanne: ceinture de l'agglomération,8.0,Personnes tuées dans les accidents de la route,3.0,8.0,5.0,6.0
+257,5586910.0,Lausanne: ceinture de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.14,0.38,0.23,0.27
+258,5586910.0,Lausanne: ceinture de l'agglomération,10.0,Blessés graves dans les accidents de la route,75.0,68.0,98.0,94.0
+259,5586910.0,Lausanne: ceinture de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,3.59,3.2,4.56,4.3
+260,5586920.0,Lausanne: agglomération,2.0,Homicides,2.0,4.0,1.0,3.0
+261,5586920.0,Lausanne: agglomération,3.0,Homicides pour 10'000 habitants,0.06,0.12,0.03,0.01
+262,5586920.0,Lausanne: agglomération,4.0,Vols de voitures,5.0,121.0,96.0,119.0
+263,5586920.0,Lausanne: agglomération,5.0,Vols de voitures pour 1000 habitants,0.01,0.35,0.28,0.34
+264,5586920.0,Lausanne: agglomération,6.0,Vols par effraction dans les logements,2227.0,2787.0,2547.0,2732.0
+265,5586920.0,Lausanne: agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,6.61,8.15,7.38,7.77
+266,5586920.0,Lausanne: agglomération,8.0,Personnes tuées dans les accidents de la route,7.0,9.0,6.0,8.0
+267,5586920.0,Lausanne: agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.21,0.26,0.17,0.23
+268,5586920.0,Lausanne: agglomération,10.0,Blessés graves dans les accidents de la route,144.0,146.0,173.0,159.0
+269,5586920.0,Lausanne: agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,4.28,4.27,5.01,4.52
+270,6621901.0,Genève: ville-centre,2.0,Homicides,5.0,0.0,3.0,3.0
+271,6621901.0,Genève: ville-centre,3.0,Homicides pour 10'000 habitants,0.27,0.0,0.16,0.02
+272,6621901.0,Genève: ville-centre,4.0,Vols de voitures,151.0,162.0,145.0,134.0
+273,6621901.0,Genève: ville-centre,5.0,Vols de voitures pour 1000 habitants,0.81,0.86,0.77,0.7
+274,6621901.0,Genève: ville-centre,6.0,Vols par effraction dans les logements,1968.0,1375.0,1152.0,1237.0
+275,6621901.0,Genève: ville-centre,7.0,Vols par effraction dans les logements pour 1000 habitants,10.5,7.3,6.09,6.46
+276,6621901.0,Genève: ville-centre,8.0,Personnes tuées dans les accidents de la route,3.0,5.0,4.0,6.0
+277,6621901.0,Genève: ville-centre,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.16,0.27,0.21,0.31
+278,6621901.0,Genève: ville-centre,10.0,Blessés graves dans les accidents de la route,133.0,151.0,187.0,177.0
+279,6621901.0,Genève: ville-centre,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,7.09,8.02,9.89,9.24
+280,6621910.0,Genève: ceinture suisse de l'agglomération,2.0,Homicides,2.0,7.0,4.0,0.0
+281,6621910.0,Genève: ceinture suisse de l'agglomération,3.0,Homicides pour 10'000 habitants,0.06,0.2,0.11,0.0
+282,6621910.0,Genève: ceinture suisse de l'agglomération,4.0,Vols de voitures,224.0,267.0,211.0,238.0
+283,6621910.0,Genève: ceinture suisse de l'agglomération,5.0,Vols de voitures pour 1000 habitants,0.65,0.77,0.6,0.67
+284,6621910.0,Genève: ceinture suisse de l'agglomération,6.0,Vols par effraction dans les logements,2672.0,2649.0,2037.0,2184.0
+285,6621910.0,Genève: ceinture suisse de l'agglomération,7.0,Vols par effraction dans les logements pour 1000 habitants,7.77,7.63,5.83,6.16
+286,6621910.0,Genève: ceinture suisse de l'agglomération,8.0,Personnes tuées dans les accidents de la route,14.0,11.0,10.0,5.0
+287,6621910.0,Genève: ceinture suisse de l'agglomération,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.41,0.32,0.29,0.14
+288,6621910.0,Genève: ceinture suisse de l'agglomération,10.0,Blessés graves dans les accidents de la route,190.0,216.0,234.0,240.0
+289,6621910.0,Genève: ceinture suisse de l'agglomération,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,5.53,6.22,6.7,6.77
+290,6621920.0,Genève: agglomération nationale,2.0,Homicides,7.0,7.0,7.0,3.0
+291,6621920.0,Genève: agglomération nationale,3.0,Homicides pour 10'000 habitants,0.13,0.13,0.13,0.01
+292,6621920.0,Genève: agglomération nationale,4.0,Vols de voitures,375.0,429.0,356.0,372.0
+293,6621920.0,Genève: agglomération nationale,5.0,Vols de voitures pour 1000 habitants,0.71,0.8,0.66,0.68
+294,6621920.0,Genève: agglomération nationale,6.0,Vols par effraction dans les logements,4640.0,4024.0,3189.0,3421.0
+295,6621920.0,Genève: agglomération nationale,7.0,Vols par effraction dans les logements pour 1000 habitants,8.73,7.51,5.92,6.26
+296,6621920.0,Genève: agglomération nationale,8.0,Personnes tuées dans les accidents de la route,17.0,16.0,14.0,11.0
+297,6621920.0,Genève: agglomération nationale,9.0,Personnes tuées dans les accidents de la route pour 10'000 habitants,0.32,0.3,0.26,0.2
+298,6621920.0,Genève: agglomération nationale,10.0,Blessés graves dans les accidents de la route,323.0,367.0,421.0,417.0
+299,6621920.0,Genève: agglomération nationale,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,6.08,6.85,7.82,7.64
+300,6621920.0,Genève: agglomération nationale,11.0,Blessés graves dans les accidents de la route pour 10'000 habitants,,,,
