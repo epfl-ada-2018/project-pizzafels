@@ -33,15 +33,28 @@ We cleaned the chosen datasets to start our analysis. This allowed us to have a 
 > The first part should illustrate more dangerous profiles and therefore provide interesting insights to insurance companies. On the other hand, the second part at scale of cantons should come out with some correlations between factors and number of accidents, therefore potentially useful for policy makers, especially at canton scale.
 
 
-### Dataset
+### New datasets
 
-​	Since we have discovered that all our datasets provide accidents with aggregated numbers (and not individual IDs), we have decided to download more datasets at the scale of cantons to study correlations between various factors and the bigger amount of data that we have when splitting it into cantons. Here is the list of additional datasets:  
+Since we have discovered that all our datasets provide accidents with aggregated numbers (and not individual IDs), we have decided to download more datasets at the scale of the cantons to study correlations between various factors and the number of accidents. Here is the list of the additional datasets:  
 
 - [Dépenses détaillées des ménages selon le canton (seulement les cantons les plus peuplés)](https://www.bfs.admin.ch/bfs/en/home.assetdetail.1400701.html) 
 - [Recettes des cantons pour les routes](https://www.bfs.admin.ch/bfs/en/home.assetdetail.5286939.html )
 - [Besoins financiers nets des cantons et des communes pour la santé - Total](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/medienmitteilungen.assetdetail.6386476.html)
 - [Routes nationales par canton: longueur totale par type de route](https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/tableaux.assetdetail.3644575.html)
 
+### Revised plan
+
+After this first analysis of the data, we can reformulate our research questions into a unique one:
+**What would be our recommendations to the Swiss government/the cantons to reduce the number of victims?**
+Our new plan is as follows (details in the notebook Milestone2 - Descriptive Analysis.ipynb):
+
+1) Analysis of the acccidents at the national level.
+
+2) Cantonal refinement: Extrapolation of highly correlated features.
+
+3) Predictions of the number of accidents using a machine learning technique.
+
+4) Recommendations to the government/the cantons.
 
 ### A list of internal milestones up until project milestone 3
 
