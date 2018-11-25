@@ -7,20 +7,25 @@
 # Research Questions from Milestone 1 and Insights of Answers towards Milestone 3
 
 > 1) Is there a high influence of the driver profile (age, gender, driving experience) on car accident risk?
+
 > At the stage of milestone 2, we have already cleaned and normalized the data of accidents per drivers profiles, where an interesting history of women accidents responsibility can be shown. Some profiles have been observed more dangerous than others, thus responding to the question. 
 
 > 2) What could be the main factors triggering that difference between driver profiles?
+
 > The main issue that we have had is that the dataset for drivers profiles is aggregated, which limits us in finding correlations with other datasets, especially at a broad national scale. Therefore, we have contacted the Federal Statistical Office to see if it is possible to have access to raw data of individual accidents. 
 
 > Remark: We would like to extend the first part of our work to a generall contextualization of car accidents in Switzerland, therefore involving personal actors, victims, but also implied objects and driving environments where accidents took place. These might result in first insights useful to decision makers. 
 
 > 3) Based on votations and urban data, what could be the main factors triggering the difference of accidents between cantons?
+
 > To establish the factors of difference of accidents between cantons, we have download many datasets about road policy in cantons, household expenses in alcool and public transport as well as type of cars used per canton. A link between votations and our results about cantonal accidents will be studied.
 
 > 4) Does car type have an influence on car accidents? 
+
 > This question will be already answered in the comparative canton-scale study from question 3).
 
 > 5) Based on our results, can we identify uesful recommandations for insurance companies or policy makers?
+
 > The first part should illustrate more dangerous profiles and therefore provide interesting insights to insurance companies. On the other hand, the second part at scale of cantons should come out with some correlations between factors and number of accidents, therefore potentially useful for policy makers, especially at canton scale.
 
 
