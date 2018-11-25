@@ -1,73 +1,59 @@
 # Study of the influence of driver profile, canton and vehicle type on car accidents in Switzerland
 
-# Abstract
+# Abstract (Unchanged since Milestone 1)
 
 ​	In 2017, there were 17,799 accidents on Swiss roads causing body injuries. Even though the number of victims is decreasing since 25 years, Switzerland still faces around 20,000 victims each year. In this data story, we try to investigate three main factors influencing car accidents: driver profile, accident per canton and car type. Identifying which profiles are more dangerous is an interesting result for policy makers and insurance companies, considering an annual cost of car accidents equal to 4 billion francs. Factors of difference between each profile are also a targeted, to tackle the issue at its roots. Furthermore, Swiss cantons benefit from a high political responsibility. Studying the distribution of accidents at this scale is therefore valuable, as well as their potential cultural factors based on past votings (e.g. which cantons voted for or against higher speed limitations or the obligation to put the seat belts on). Finally, a study of the vehicle type's influence on accidents is also carried out. All datasets used in this study were collected on the Federal Statistical Office website.
 
-# Research questions
+# Research Questions from Milestone 1 and Insights of Answers towards Milestone 3
 
-> Is there a high influence of the driver profile (age, gender, driving experience) on car accident risk?
+> 1) Is there a high influence of the driver profile (age, gender, driving experience) on car accident risk?
+> At the stage of milestone 2, we have already cleaned and normalized the data of accidents per drivers profiles, where an interesting history of women accidents responsibility can be shown. Some profiles have been observed more dangerous than others, thus responding to the question. 
 
-> What could be the main factors triggering that difference between driver profiles?
+> 2) What could be the main factors triggering that difference between driver profiles?
+> The main issue that we have had is that the dataset for drivers profiles is aggregated, which limits us in finding correlations with other datasets, especially at a broad national scale. Therefore, we have contacted the Federal Statistical Office to see if it is possible to have access to raw data of individual accidents. 
 
-> Based on votations and urban data, what could be the main factors triggering the difference of accidents between cantons?
+> Remark: We would like to extend the first part of our work to a generall contextualization of car accidents in Switzerland, therefore involving personal actors, victims, but also implied objects and driving environments where accidents took place. These might result in first insights useful to decision makers. 
 
-> Does car type have an influence on car accidents? 
+> 3) Based on votations and urban data, what could be the main factors triggering the difference of accidents between cantons?
+> To establish the factors of difference of accidents between cantons, we have download many datasets about road policy in cantons, household expenses in alcool and public transport as well as type of cars used per canton. A link between votations and our results about cantonal accidents will be studied.
 
-> Based on our results, can we identify uesful recommandations for insurance companies or policy makers?
+> 4) Does car type have an influence on car accidents? 
+> This question will be already answered in the comparative canton-scale study from question 3).
+
+> 5) Based on our results, can we identify uesful recommandations for insurance companies or policy makers?
+> The first part should illustrate more dangerous profiles and therefore provide interesting insights to insurance companies. On the other hand, the second part at scale of cantons should come out with some correlations between factors and number of accidents, therefore potentially useful for policy makers, especially at canton scale.
 
 
 # Dataset
 
-​	We would like to use multiple datasets about driving accidents in Switzerland. Most of them were found on the Federal Statistical Office website. 
+​	Since we have discovered that all our datasets provide accidents with aggregated numbers (and not individual IDs), we have decided to download more datasets at the scale of cantons to study correlations between various factors and the bigger amount of data that we have when splitting it into cantons. Here is the list of additional datasets:  
 
-The main dataset is gathering swiss aggregated data about car accidents according to various factors such as driver's and victim's profile, road type and condition, causes of accident, state of the driver and road signs. This overall dataset contains about 5 million data, and has been split into 4 sub-datasets by the SFO. As a result the first step will be to identify and merge columns of interest from these four tables, and exclude useless and heavy additional data from the processed dataframe. 
-
-Links towards first dataset: 
-
-- [Accidents de la circulation routière: accidents avec victimes (1)](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_102/-/px-x-1106010100_102.px) 
-- [Accidents de la circulation routière: accidents avec victimes (2)](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_103/-/px-x-1106010100_103.px )
-- [Accidents de la circulation routière: victimes](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_104/-/px-x-1106010100_104.px)
-- [Accidents de la circulation routière: objets impliqués](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_105/-/px-x-1106010100_105.px )
-
-When comparing drivers' profiles, we would like to use proportions of the population instead of absolute quantities since different profile groups might have different size. It will require to merge the dataset on car accidents with a complementary dataset on swiss demography.
-
-- [Population résidante permanente et non permanente selon le canton, le sexe, l'état civil et l'âge](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_102/-/px-x-0102010000_102.px)
-
-In a second part, we would like to study geographical distribution of car accidents. We therefore selected two datasets selected. One is relating car accident victims to cantons over the last 25 years, and another one is providing insecurity data in swiss towns, includind car accidents. An interesting outcome concerning city versus country-side might be found. 
-
-- [Accidents de la circulation routière: accidents avec victimes par canton](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1106010100_101/-/px-x-1106010100_101.px)
-- [Qualité de vie dans les villes et agglomérations (agglo 2000): sécurité personnelle](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-2105000000_107/-/px-x-2105000000_107.px) 
-
-Then, the results of votations per cantons would also be collected and processed to be compared to accidents per cantons. Indeed, a correlation might be found between cantons voting against road safety, and quantity of accidents. This dataset however contains data for all  swiss votations, therefore it should be first cleaned to have only votings about road safety occuring in sufficiently recent years to still make sense today. 
-- [Votations populaires (résultats au niveau des cantons depuis 1866)](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1703030000_100/-/px-x-1703030000_100.px )
-- [Initiative populaire fédérale 'pour plus de sécurité à l'intérieur des localités grâce à une vitesse maximale de 30 km/h assortie d'exceptions (Rues pour tous)'](https://www.admin.ch/ch/f//pore/vi/vis271.html)
-- [Votation no  476 - Résultats dans les cantons](https://www.bk.admin.ch/ch/f/pore/va/20010304/can476.html)
-
-Finally, a study on influence of car type on proportion of victims of car accidents would be carried out. A dataset presenting number of vehicles per type per canton has also been selected. The study here would only measure a correlation between car type and proportion of victims out of data for each canton, therefore we might stay careful with the conclusions. 
-
-- [Parc de véhicules routiers: véhicules de transport de personnes depuis 1990](https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1103020100_123/-/px-x-1103020100_123.px)
-
-# A list of internal milestones up until project milestone 2
-
-​	We have three weeks left to identify useful factors for our study, clean the data, compute statistics, measure correlations and visualize results.  
-
-<u>Until 11th of November:</u>
-- Identify useful data out of sets and join relevant sets together
-
-- Clean the data  
-
-   
-
-<u>Until 18th of November:</u> 
-- Compute statistics on drivers profiles
-
-- Look for factors of difference between drivers profiles
-
-- Investigate potential correlation between cantons votings and number of accidents*
+- [Dépenses détaillées des ménages selon le canton (seulement les cantons les plus peuplés)](https://www.bfs.admin.ch/bfs/en/home.assetdetail.1400701.html) 
+- [Recettes des cantons pour les routes](https://www.bfs.admin.ch/bfs/en/home.assetdetail.5286939.html )
+- [Besoins financiers nets des cantons et des communes pour la santé - Total](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/medienmitteilungen.assetdetail.6386476.html)
+- [Routes nationales par canton: longueur totale par type de route](https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/tableaux.assetdetail.3644575.html)
 
 
-<u>Until 25th of November:</u> 
+# A list of internal milestones up until project milestone 3
 
-- Visualize results for the first part (driver profile) and second part (accident per canton)
-- Compute the correlation between car type and accidents per canton + Visualization
+​	We have three weeks left to describe clearly the context of car accidents in Switzerland, find which factors have relevant correlations with cantons accidents, realize a predictive strategy based on resulting correlations, and finally create our full data story. 
+
+- A notebook has already been started studying correlations between collected features and cantons accidents. 
+
+<u>Until 2nd of November:</u>
+- Describe clearly the context of car accidents in Switzerland (based on drivers profiles, objects, route type and victims) 
+
+- Re-contact the FSO to get chances of having access to a more granular dataset of Swiss accidents
+
+- Find which features have a clear influence on cantons accidents and which have no particular correlation 
+
+
+<u>Until 9th of November:</u> 
+- Start clear and good looking visualizations for the national contextualization of the topic
+
+- Propose a predictive model based on previously found relationships between features and cantons accidents (machine learning)
+
+
+<u>Until 16th of November:</u> 
+
+- Create a link with an attractive data story, easy to follow and with concise description of the outcomes of our study
