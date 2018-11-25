@@ -45,8 +45,10 @@ Since we have discovered that all our datasets provide accidents with aggregated
 ### Revised plan
 
 After this first analysis of the data, we can reformulate our research questions into a unique one:
+
 **What would be our recommendations to the Swiss government/the cantons to reduce the number of victims?**
-Our new plan is as follows (details in the notebook Milestone2 - Descriptive Analysis.ipynb):
+
+Our new plan is as follows (details in the notebook 'Milestone2 - Descriptive Analysis.ipynb'):
 
 1) Analysis of the acccidents at the national level.
 
