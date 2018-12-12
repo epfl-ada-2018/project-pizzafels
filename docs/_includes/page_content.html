@@ -1,0 +1,64 @@
+ {% for cat in site.parts %}
+    <section id="{{cat.cat_tag}}">
+
+    <div class="title-section" >
+        <div class='small-banner'>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-12">
+                        <div class="clearfix"></div>
+                            <h1 style="font-size: 50px;text-transform:uppercase;">{{ cat.cat_name }}</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Content -->
+    {% assign posts = site.stories | sort: 'id' %}
+    {% for post in posts reversed%}
+        {% if post.category == {{cat.cat_tag}}%}
+          {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+            {% if thecycle == 'odd' %}
+            <div class="content-section-a" >
+
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <hr class="section-heading-spacer-a">
+                            <div class="clearfix"></div>
+                            <h2 class="section-heading">{{ post.title }}</h2>
+                            <div class="lead">{{ post.content }}</div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-a -->
+            {% else %}
+
+            <div class="content-section-b">
+
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+                            <hr class="section-heading-spacer-b">
+                            <div class="clearfix"></div>
+                            <h2 style='text-align:right' class="section-heading">{{ post.title }}</h2>
+                            <div class="lead">{{ post.content }}</div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-b -->
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    </section>
+{% endfor %}
