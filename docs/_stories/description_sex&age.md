@@ -10,4 +10,7 @@ In this part, we work with the dataset df_Population_2010, which records the pop
 This will allow us to perform a normalization of the number of accidents (by 10'000 people in that case) to have an insight on the more dangerous categories of people.
 <center>{% include_relative dataframes/victims.html %}</center>
 
+![nom_image](plots/accident_2months.png)
+
+
 blabla

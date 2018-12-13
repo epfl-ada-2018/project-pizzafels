@@ -33,8 +33,6 @@ parts:
     cat_name: 'Correlation'
   - cat_tag: 'prediction'
     cat_name: 'Prediction'
-  - cat_tag: 'conclusion'
-    cat_name: 'Conclusion'
     
 collections:
   - stories
