@@ -6,10 +6,11 @@ url: https://epfl-ada-2018.github.io/project-pizzafels/
 title: The Pizzafels Datastory
 email: clement.grand@epfl.ch
 author: Pizzafels Team
-description: > # "Write an awesome description for your new site here. 
+description: > # Need to set a better description
   How to predict car accidents?
 copyright: 'Copyright &copy; 2018 Pizzafels. All Rights Reserved.'
-credits: 'Credits: The Pizzafels Datastory is an original datastory about car accidents in Swiss. This datastory is a part of the Applied Data Analysis course at EPFL.'
+credits: 'Credits: The Pizzafels Datastory is an original datastory about car accidents in Swiss. This datastory is a part of the Applied Data Analysis course at EPFL.
+The template comes from : https://github.com/swcool/landing-page-theme.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,7 +27,8 @@ permalink: pretty
 social:
   - title: github
     url: https://github.com/epfl-ada-2018/project-pizzafels
-parts:
+
+parts: #You can add a category here : nothing than these two lines
   - cat_tag: 'description'
     cat_name: 'Description'
   - cat_tag: 'correlation'

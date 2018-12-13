@@ -34,6 +34,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/header.jpg) no-repeat center center;
     background-size: cover;
+    opacity: 1;
 }
 
 .intro-message {
@@ -44,7 +45,7 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 5px 5px 5px rgba(0,0,0,1);
     font-size: 5em;
 }
 
@@ -113,20 +114,20 @@ h6 {
 }
 
 .section-heading {
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     margin-top: 5px;
 }
 
 .section-heading-spacer-a {
     float: left;
-    width: 200px;
-    margin-bottom: 5px;
-    border-top: 3px solid #e7e7e7;
+    width: 500px;
+    margin-bottom: 40px;
+    border-top: 3px solid #EEBA3D;
 }
 .section-heading-spacer-b {
     float: right;
     width: 200px;
-    margin-bottom: 5px;
+    margin-bottom: 40px;
     border-top: 3px solid #e7e7e7;
 }
 
