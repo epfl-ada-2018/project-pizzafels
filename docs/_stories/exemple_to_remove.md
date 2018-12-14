@@ -100,4 +100,54 @@ My list :
 
 <br />
 <br />
-<br />  
+<br /> 
+
+### WOW TWO ELEMENTS
+
+<div class="row">
+    <div class="col-xs-12 col-md-6">
+    	<iframe src="img/plotly/correlation_expenses_roads.html" height="600" width="100%"></iframe>
+    </div>
+    <div class="col-xs-12 col-md-6">
+    	<iframe src="img/maps/accident_canton.html" height="600" width="100%"></iframe>
+    </div>
+
+</div>
+<br /> 
+<br /> 
+
+
+### WOW TWO WITH DIFFERENTES PROPORTIONS
+
+<!--- The size of a column is defined by the number after col-md-* the sum has to be 12 -->
+[Bootstrap principle](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)  
+[Exemples](https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp)
+
+<div class="row">
+    <div class="col-xs-12 col-md-9">
+    	<iframe src="img/plotly/correlation_expenses_roads.html" height="600" width="100%"></iframe>
+    </div>
+    <div class="col-xs-12 col-md-3">
+    	<iframe src="img/maps/accident_canton.html" height="600" width="100%"></iframe>
+    </div>
+
+</div>
+
+<br /> 
+<br /> 
+
+### WOW TWO WITH DIFFERENTES PROPORTIONS AND VERTICAL CENTER
+
+<div class="row">
+	<div style='height:600px;' class="col-xs-12 col-md-3"> <!--- don't forget to set the set height as above -->
+		<div  class="vertical-center"> <!--- to center vertical -->
+			<blockquote> My amazing text center is the middle of the block! </blockquote>
+			<i> Oh yeah! I like this guy </i>
+		</div>
+    </div>
+    <div style='height:600px;' class="col-xs-12 col-md-9">
+    	<iframe src="img/plotly/correlation_expenses_roads.html" height="100%" width="100%"></iframe>
+    </div>
+    
+
+</div>
