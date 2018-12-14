@@ -54,11 +54,39 @@ My list :
 
 #### Reference to a plot
 <p align="center">
-<img src="img/plots/accident_2months.png" alt="My Image" height="75%" width="75%">
+<img src="img/plots/correlation_expenses_roads.png" alt="My Image" height="75%" width="75%">
 <br />
 <i>Exemple for a legend</i>
 </p>
 <br />
+<br />
+<br />
+
+#### Reference to a beautifulplot
+<p align="center">
+<iframe src="img/plotly/correlation_expenses_roads.html" height="600" width="100%"></iframe>
+<br />
+<i>Exemple for a legend</i>
+</p>
+<br />
+<br />
+
+
+#### Reference to a dataframe  
+
+<p align="center">
+
+<iframe src="img/dataframes/proportion_permis.html" height="300" width="100%"></iframe>
+</p>
+<br />
+<br />
+
+#### Reference to a dataframe nice
+
+<p align="center">
+
+<iframe src="img/dataframesly/proportion_permis.html" height="300" width="100%"></iframe>
+</p>
 <br />
 <br />
 
@@ -72,9 +100,4 @@ My list :
 
 <br />
 <br />
-<br />
-
-#### Reference to a dataframe
-<p align="center">
-{% include_relative dataframes/proportion_permis.html %}
-</p>
+<br />  
