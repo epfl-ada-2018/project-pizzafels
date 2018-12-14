@@ -7,12 +7,18 @@
                     <li>
                         <a href="#home">Home</a>
                     </li>
+                    <li>
+                        <a href="#introduction">Introduction</a>
+                    </li>
                     {% for cat in site.parts %}
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
                         <a href="#{{ cat.cat_tag }}">{{cat.cat_name}}</a>
                     </li>
                     {% endfor %}
+                    <li>
+                        <a href="#conclusion">Conclusion</a>
+                    </li>
                 </ul>
                 <p class="copyright text-muted small">{{ site.copyright }}</p>
             </div>
