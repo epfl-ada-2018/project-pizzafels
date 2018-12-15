@@ -118,6 +118,7 @@ My list :
 
 
 ### WOW TWO WITH DIFFERENTES PROPORTIONS
+ldhflkdjfkljdlkfjddfdklfjldflkdjflkdjflkdjflkdjlfkjdlkjfd
 
 <!--- The size of a column is defined by the number after col-md-* the sum has to be 12 -->
 [Bootstrap principle](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)  
