@@ -34,8 +34,8 @@ parts: #You can add a category here : nothing than these two lines
     cat_name: 'Investigation'
   - cat_tag: 'ML_based_study'
     cat_name: 'ML Study'
-  - cat_tag: 'description'
-    cat_name: 'Description'
+  - cat_tag: 'correlation'
+    cat_name: 'Correlation'
     
 collections:
   - stories
