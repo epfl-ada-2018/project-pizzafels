@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Choose Canton</h2>
+
+<div id='randId'>
+
+	<table style="width:100%">
+		<tr><td>
+			<p align="center"><iframe src="../../img/dataframesly/AA_top_features.html" width="100%" height="100%" id='tableFrame'></iframe></p></td></tr>
+		<tr><td><select onChange=chooseMap() id='cantonName'>
+	  <option value="AA_top_features">Appenzel A</option>
+	  <option value="AG_top_features">Argovie</option>
+	  <option value="AI_top_features">Appenzel I</option>
+	  <option value="BE_top_features">Berne</option>
+	</select></td></tr>
+	</table>
+</div>
+
+<script > function chooseMap() {var cantonName=document.getElementById('cantonName').value 
+var imgPath="../../img/dataframesly/"+ cantonName +".html"
+var tableFrame=document.getElementById('tableFrame')
+console.log(tableFrame)
+tableFrame.src=imgPath
+}</script>
+
+</body>
+</html>

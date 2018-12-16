@@ -39,3 +39,5 @@ parts: #You can add a category here : nothing than these two lines
     
 collections:
   - stories
+custom-javascript-list:
+    - "https://cdn.plot.ly/plotly-latest.min.js"
