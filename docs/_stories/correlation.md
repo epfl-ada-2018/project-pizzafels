@@ -2,7 +2,7 @@
 layout: default
 category: correlation
 title: Correlation between influent factors and accidents in cantons
-id: 2
+id: 1
 ---
 <!--- category : Enter the category here in description, correlation, prediction. You can create new ones in '_config.yml' -->
 <!--- title : Set the name to the precise part -->
@@ -95,7 +95,7 @@ We can also look at the different gear boxes: does the number automatic vehicles
 <br /> 
 
 <p align="center">
-<iframe src="img/plotly/correlation_gear_box_best.html" height="450" width="100%"></iframe>
+<iframe src="img/plotly/correlation_gear_box_best.html" height="450" width="75%"></iframe>
 </p>
 <br />
 
