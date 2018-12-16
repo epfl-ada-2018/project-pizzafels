@@ -26,17 +26,18 @@ _Spoiler Alert_: We found out they should increase the budget dedicated to the r
 The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 parts:  
 1) Analysis of the acccidents at the national level (When, Where do accidents happen, Who was driving, ...).  
 2) Cantonal refinement: Can we find good features with a signficant correlation to the number of accidents?  
-3) Predictions of the number of accidents using machine learning techniques.  
-4) Conclusion: Our recommendations to the government/the cantons.
+3) Predictions of the number of accidents using machine learning techniques. Do they correspond to our intuition and/or to some of the correlations found?  
+4) Conclusion: Our recommendations to the government/the cantons - Keep increasing the budget dedicated to the roads !
 
 ## Data Story
 
-Our data Story was made with `Jekyll`and can be found [here](https://epfl-ada-2018.github.io/project-pizzafels/).
+Our data Story was made with `Jekyll`and its structure is a little bit different than the one from the notebook to make it more narrative. We firstly present some statistics on the drivers and the accidents in general as well, but then go through our predictions before the correlations. The idea is to show that some interesting correlations were found based on the results of our predictions.
+[Enjoy our Data Story here !](https://epfl-ada-2018.github.io/project-pizzafels/).  
 
 ## Contributions
 Adrien: Correlations research and profiles analysis, Data Story writing.  
 Clément: Data cleaning, Predictions analysis, Structure of the Data Story.  
-Loris: Correlations research and profiles analysis, Final notebook writing.  
+Loris: ReadMe, Correlations research and profiles analysis, Final notebook writing.  
 
 <!---
 %## Milestone 2
