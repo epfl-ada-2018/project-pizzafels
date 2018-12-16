@@ -12,10 +12,9 @@ id: 1
 
 
 <!--- The title set above is already a level 2 title so use only title with 3# or more -->
-### Is there a visually clear correlation between influent factors and car accidents? 
-<br /> 
 
-#### Correlation with cantonal road expenses
+### Correlation with cantonal road expenses
+
 
 In previous section, the ML tree model has determined "road expenses" as a highly influencing factor of car accidents. To plot the relation between both variables, the number of accidents has been normalized by 1000 people living in the canton, and the road expenses have been normalized by 100km of road distance in the canton. Because of this normalization by road distance, the canton of Basel Stadt was always an outlier (urban canton), therefore it has been removed from the maps. 
 
@@ -30,14 +29,15 @@ Below, we can see the map of road distance per canton, as well as the plot of ca
     </div>
     <div class="col-xs-12 col-md-6">
     	<iframe src="img/plotly/correlation_expenses_roads_zoomin.html" height="450" width="100%"></iframe>
-    	<center><i>Plot of accidents versus road expenses</i></center>
+    	<center><i>Plot of victims versus road expenses</i></center>
     </div>
 </div>
 <br /> 
 
 A clear negative correlation between road expenses and car accidents appears. One could argue that it is because roads become safier with more spendings in the renovation, however we are only showing a correlation here, and not an explicit relation of causality. The number of accidents might have decreased in the time for other reasons than an increase in road expenses. 
 
-#### Correlation with cantonal police expenses
+<br />
+### Correlation with cantonal police expenses
 
 In 6 cantons, police surveillance is among the top 3 levels of the decision tree, such as TG and OW for example. Therefore, it is worth to check the relation between accidents and this variable. As before, a map is provided with the police expenses normalized per 100km of roads in each canton. Besides, a plot of the relation with car acidents is shown for cantons with 95% confidence of correlation.
 <br /> 
@@ -50,14 +50,15 @@ In 6 cantons, police surveillance is among the top 3 levels of the decision tree
     </div>
     <div class="col-xs-12 col-md-6">
     	<iframe src="img/plotly/correlation_expenses_police.html" height="450" width="100%"></iframe>
-    	<center><i>Plot of accidents versus police expenses</i></center>
+    	<center><i>Plot of victims versus police expenses</i></center>
     </div>
 </div>
 <br /> 
 
 One more time, expenses seem to be justified. The higher the expenses in police surveillance, the lower the number of accidents. However, this is only representative of cantons with a high confidence level, whereas 5 other cantons such as Neuchatel and Vaud are having a positive correlation (>0.6 for both!). As a conequence, no clear conclusion can be drawn for Switzerland, even despite it is a good indicator for prediction of accidents within each canton. 
 
-#### Correlation with vehicles cylinder size
+<br /> 
+### Correlation with vehicles cylinder size
 
 According to the canton, the average cylinder size of vehicles might vary a lot, that's why a formula has derived to compute the cylinder score of cantons. Cylinders are provided into 5 sub-categories, going from 'below 1399 cm3' to 'above 2500 cm3'. 
 
@@ -77,7 +78,7 @@ Besides the map of cylinder score per canton below, we can then look at the corr
     </div>
     <div class="col-xs-12 col-md-6">
     	<iframe src="img/plotly/correlation_car_cylinders_best.html" height="450" width="100%"></iframe>
-    	<center><i>Plot of accidents versus cylinder scores</i></center>
+    	<center><i>Plot of victims versus cylinder scores</i></center>
     </div>
 </div>
 <br /> 
@@ -87,8 +88,9 @@ For Grisons and Schwytz (most confident cases), it seems that we have a soft neg
 Again, the correlation is only significant for a few cantons, namely 11. What is worse, part of them exhibit positive correlations while others have negative ones. It it thus impossible to draw any conclusion from this data.
 
 However, it is interesting to look at the shape of the scatter plots of both cantons: if you go from the highest to the lowest point (decreasing number of victims, the observed trend in time), you will first move right then left. This corresponds to the evolution in time of the "cylinder score" of the two cantons.
+<br /> 
 
-#### Correlation with gear boxes
+### Correlation with gear boxes
 
 We can also look at the different gear boxes: does the number automatic vehicles influence the number of accidents? Or for it to be more meaningful across the different cantons, does a higher share of automatic vehicles on the road influence the number of accidents?
 <br /> 
