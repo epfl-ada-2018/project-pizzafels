@@ -8,10 +8,13 @@
 
 All datasets used in this study were collected on the Federal Statistical Office website. We needed a lot of preprocessing to clean the tens of data sets we retrieved and identify the ones we wanted to keep in our analysis.
 
-## Plan
+## Research question
 
 After the prior analyses of the data we had, it appeared we had to slightly modify our first plan. Alltogether, we can now reformulate our research question as follows:  
-**What would be our recommendations to the Swiss government/the cantons to reduce the number of victims?**
+**What would be our recommendations to the Swiss government/the cantons to reduce the number of victims?**  
+Spoiler Alert: We found out they should increase the budget dedicated to the roads (maintenance, security, ...).
+
+## Final Notebook
 
 The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 parts:  
 1) Analysis of the acccidents at the national level (When, Where do accidents happen, Who was driving, ...).  
@@ -21,12 +24,12 @@ The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 part
 
 ## Data Story
 
-Our data Story was made with `Jekyll`and can be found [here](https://www.bfs.admin.ch/bfs/en/home.assetdetail.1400701.html) 
+Our data Story was made with `Jekyll`and can be found [here](https://epfl-ada-2018.github.io/project-pizzafels/).
 
 ## Contributions
-Adrien: Correlations research and profiles analysis, Data Story.  
-Clément: Data cleaning, Predictions analysis, Set up the Data Story.  
-Loris: Correlations research and profiles analysis, Final notebook.  
+Adrien: Correlations research and profiles analysis, Data Story writing.  
+Clément: Data cleaning, Predictions analysis, Structure of the Data Story.  
+Loris: Correlations research and profiles analysis, Final notebook writing.  
 
 <!---
 %## Milestone 2
