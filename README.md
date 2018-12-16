@@ -27,7 +27,7 @@ The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 part
 1) Analysis of the acccidents at the national level (When, Where do accidents happen, Who was driving, ...).  
 2) Cantonal refinement: Can we find good features with a signficant correlation to the number of accidents?  
 3) Predictions of the number of accidents using machine learning techniques and extraction of important features of the process. Do they correspond to our intuition and/or to some of the correlations found?  
-4) Conclusion: Our recommendations to the government/the cantons - Keep increasing the budget dedicated to the roads!  
+4) Conclusion: To the government/the cantons - Keep increasing the budget dedicated to the roads!  
 To everybody - Be careful on Fridays night in dry conditions during the Summer in localities!  
 And more...
 
