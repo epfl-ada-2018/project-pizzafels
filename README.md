@@ -34,7 +34,7 @@ And more...
 ## Data Story
 
 Our data Story was made with `Jekyll`and its structure is a little bit different than the one from the notebook to make it more narrative. We firstly present some statistics on the drivers and the accidents in general as well, but then go through our predictions before the correlations. The idea is to show that some interesting correlations were found based on the results of our predictions.  
-[Enjoy our Data Story here !](https://epfl-ada-2018.github.io/project-pizzafels/).  
+[Enjoy our Data Story here !](https://epfl-ada-2018.github.io/project-pizzafels/)
 
 ## Contributions
 Adrien: Correlations research and profiles analysis, Data Story writing.  
