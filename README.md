@@ -11,7 +11,7 @@ In 2017, there were 17,799 accidents on Swiss roads causing body injuries. Even 
 
 ## Data
 
-All datasets used in this study were collected on the Federal Statistical Office website. After a lot of preprocessing to clean the tens of data sets we retrieved, we identify the ones we wanted to keep in our analysis. We kept almost 20 sets giving us various information about different factors related to the car accidents on the national and/or cantonal level.
+All datasets used in this study were collected on the Federal Statistical Office website. After a lot of preprocessing to clean the tens of data sets we retrieved, we identified the ones that appeared to be useful our analysis. We kept almost 20 sets giving us various information about different factors related to the car accidents on the national and/or cantonal level.
 
 ## Research question
 
