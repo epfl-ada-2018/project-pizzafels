@@ -20,9 +20,9 @@ The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 part
 4) Recommendations to the government/the cantons.
 
 ## Contributions
-Adrien: Correlations research and profiles analysis, Data Story
-Clément: Data cleaning, Predictions analysis, Set up the Data Story
-Loris: Correlations research, Made the final notebook by putting everything together
+Adrien: Correlations research and profiles analysis, Data Story.  
+Clément: Data cleaning, Predictions analysis, Set up the Data Story.  
+Loris: Correlations research and profiles analysis, Final notebook.  
 
 <!---
 %## Milestone 2
