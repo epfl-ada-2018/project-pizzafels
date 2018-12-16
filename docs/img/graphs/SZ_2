@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="SZ_Recettes_routes-Total taxes <= 0.172\nmse = 2308.727\nsamples = 20\nvalue = 366.35"] ;
+1 [label="SZ_Frais_routes_cantonales-Entretien Construction <= 0.041\nmse = 590.413\nsamples = 11\nvalue = 402.636"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="SZ_carburant_Diesel <= 0.028\nmse = 312.29\nsamples = 10\nvalue = 397.1"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+14 [label="(...)"] ;
+2 -> 14 ;
+17 [label="mse = 0.0\nsamples = 1\nvalue = 458.0"] ;
+1 -> 17 ;
+18 [label="SZ_cylindre_de 1800 à 1999 cm3 <= 0.079\nmse = 832.667\nsamples = 9\nvalue = 322.0"] ;
+0 -> 18 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+19 [label="SZ_Frais_routes_cantonales-Entretien Exploitation <= 0.035\nmse = 247.5\nsamples = 4\nvalue = 294.0"] ;
+18 -> 19 ;
+20 [label="(...)"] ;
+19 -> 20 ;
+21 [label="(...)"] ;
+19 -> 21 ;
+26 [label="SZ_Frais_routes_cantonales-Administration <= 0.016\nmse = 171.84\nsamples = 5\nvalue = 344.4"] ;
+18 -> 26 ;
+27 [label="(...)"] ;
+26 -> 27 ;
+30 [label="(...)"] ;
+26 -> 30 ;
+}

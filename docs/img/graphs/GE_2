@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="GE_Frais_routes_cantonales-Amélio- <= 0.015\nmse = 14210.15\nsamples = 20\nvalue = 1194.5"] ;
+1 [label="GE_Frais_routes_communales-Constructions <= 0.008\nmse = 9434.854\nsamples = 12\nvalue = 1125.25"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="GE_Frais_routes_nationales-Entretien Construction <= 0.007\nmse = 1761.688\nsamples = 8\nvalue = 1186.25"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+8 [label="(...)"] ;
+2 -> 8 ;
+17 [label="GE_cylindre_de 1400 à 1799 cm3 <= 0.083\nmse = 2455.188\nsamples = 4\nvalue = 1003.25"] ;
+1 -> 17 ;
+18 [label="(...)"] ;
+17 -> 18 ;
+19 [label="(...)"] ;
+17 -> 19 ;
+24 [label="GE_Frais_routes_cantonales-Acquisition <= 0.0\nmse = 3389.734\nsamples = 8\nvalue = 1298.375"] ;
+0 -> 24 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+25 [label="GE_carosserie_Limousine <= 0.277\nmse = 565.36\nsamples = 5\nvalue = 1337.2"] ;
+24 -> 25 ;
+26 [label="(...)"] ;
+25 -> 26 ;
+29 [label="(...)"] ;
+25 -> 29 ;
+34 [label="GE_Frais_routes_cantonales-Acquisition <= 0.001\nmse = 1397.556\nsamples = 3\nvalue = 1233.667"] ;
+24 -> 34 ;
+35 [label="(...)"] ;
+34 -> 35 ;
+36 [label="(...)"] ;
+34 -> 36 ;
+}

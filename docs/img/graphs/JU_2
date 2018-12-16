@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="JU_carburant_Diesel <= 0.008\nmse = 840.148\nsamples = 20\nvalue = 177.45"] ;
+1 [label="JU_Frais_routes_cantonales-Administration <= 0.004\nmse = 113.714\nsamples = 7\nvalue = 212.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="JU_carosserie_Break <= 0.018\nmse = 30.25\nsamples = 2\nvalue = 197.5"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+5 [label="JU_Recettes_routes-Total <= 0.546\nmse = 29.36\nsamples = 5\nvalue = 217.8"] ;
+1 -> 5 ;
+6 [label="(...)"] ;
+5 -> 6 ;
+11 [label="(...)"] ;
+5 -> 11 ;
+14 [label="JU_Frais_routes_nationales-Entretien Construction <= 0.01\nmse = 242.438\nsamples = 13\nvalue = 158.846"] ;
+0 -> 14 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+15 [label="JU_Frais_routes_nationales-Administration <= 0.002\nmse = 89.083\nsamples = 12\nvalue = 162.5"] ;
+14 -> 15 ;
+16 [label="(...)"] ;
+15 -> 16 ;
+31 [label="(...)"] ;
+15 -> 31 ;
+38 [label="mse = 0.0\nsamples = 1\nvalue = 115.0"] ;
+14 -> 38 ;
+}

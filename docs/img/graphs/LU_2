@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="LU_carburant_Electrique <= 0.0\nmse = 8334.027\nsamples = 20\nvalue = 1129.65"] ;
+1 [label="LU_Frais_routes_communales-Constructions <= 0.005\nmse = 4700.944\nsamples = 14\nvalue = 1173.643"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="LU_Frais_routes_communales-Entretien Exploitation <= 0.083\nmse = 578.222\nsamples = 6\nvalue = 1115.333"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+10 [label="(...)"] ;
+2 -> 10 ;
+13 [label="LU_Frais_routes_communales-Total <= 0.161\nmse = 3330.484\nsamples = 8\nvalue = 1217.375"] ;
+1 -> 13 ;
+14 [label="(...)"] ;
+13 -> 14 ;
+21 [label="(...)"] ;
+13 -> 21 ;
+28 [label="LU_Recettes_routes-Total <= 0.218\nmse = 1758.333\nsamples = 6\nvalue = 1027.0"] ;
+0 -> 28 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+29 [label="mse = 0.0\nsamples = 1\nvalue = 1107.0"] ;
+28 -> 29 ;
+30 [label="LU_Frais_routes_nationales-Entretien Exploitation <= 0.017\nmse = 574.0\nsamples = 5\nvalue = 1011.0"] ;
+28 -> 30 ;
+31 [label="(...)"] ;
+30 -> 31 ;
+38 [label="(...)"] ;
+30 -> 38 ;
+}

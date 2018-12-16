@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="GL_Frais_routes_cantonales-Entretien Exploitation <= 0.037\nmse = 121.71\nsamples = 20\nvalue = 96.3"] ;
+1 [label="GL_Besoin_sante-Soins hopitaux <= 0.0\nmse = 40.694\nsamples = 7\nvalue = 107.857"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="GL_cylindre_de 1800 à 1999 cm3 <= 0.069\nmse = 12.25\nsamples = 2\nvalue = 116.5"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+5 [label="GL_traction_Traction arrière <= 0.032\nmse = 10.24\nsamples = 5\nvalue = 104.4"] ;
+1 -> 5 ;
+6 [label="(...)"] ;
+5 -> 6 ;
+9 [label="(...)"] ;
+5 -> 9 ;
+10 [label="GL_Frais_routes_communales-Depense_habitants <= 0.004\nmse = 54.686\nsamples = 13\nvalue = 90.077"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+11 [label="GL_Besoin_sante-Administration Prevention <= 0.0\nmse = 12.395\nsamples = 9\nvalue = 86.222"] ;
+10 -> 11 ;
+12 [label="(...)"] ;
+11 -> 12 ;
+15 [label="(...)"] ;
+11 -> 15 ;
+24 [label="GL_Frais_routes_nationales-Total <= 0.081\nmse = 41.188\nsamples = 4\nvalue = 98.75"] ;
+10 -> 24 ;
+25 [label="(...)"] ;
+24 -> 25 ;
+26 [label="(...)"] ;
+24 -> 26 ;
+}

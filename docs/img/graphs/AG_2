@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="AG_Recettes_routes-Total taxes <= 0.132\nmse = 26884.027\nsamples = 20\nvalue = 1466.65"] ;
+1 [label="AG_Recettes_routes-Total taxes <= 0.125\nmse = 9979.006\nsamples = 13\nvalue = 1565.615"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="AG_Frais_routes_cantonales-Constructions <= 0.019\nmse = 4345.76\nsamples = 5\nvalue = 1673.8"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+11 [label="AG_Frais_routes_communales-Entretien Construction <= 0.019\nmse = 1613.0\nsamples = 8\nvalue = 1498.0"] ;
+1 -> 11 ;
+12 [label="(...)"] ;
+11 -> 12 ;
+23 [label="(...)"] ;
+11 -> 23 ;
+26 [label="AG_carburant_Electrique <= 0.0\nmse = 6310.122\nsamples = 7\nvalue = 1282.857"] ;
+0 -> 26 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+27 [label="AG_boite_Automatique <= 0.098\nmse = 737.556\nsamples = 3\nvalue = 1370.333"] ;
+26 -> 27 ;
+28 [label="(...)"] ;
+27 -> 28 ;
+31 [label="(...)"] ;
+27 -> 31 ;
+32 [label="AG_carburant_Autres <= 0.004\nmse = 446.188\nsamples = 4\nvalue = 1217.25"] ;
+26 -> 32 ;
+33 [label="(...)"] ;
+32 -> 33 ;
+34 [label="(...)"] ;
+32 -> 34 ;
+}

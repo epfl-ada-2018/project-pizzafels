@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="VS_Frais_routes_nationales-Acquisition <= 0.018\nmse = 9611.49\nsamples = 20\nvalue = 654.1"] ;
+1 [label="VS_boite_Autres <= 0.002\nmse = 2052.364\nsamples = 11\nvalue = 574.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="VS_boite_Autres <= 0.0\nmse = 302.139\nsamples = 6\nvalue = 610.167"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+6 [label="(...)"] ;
+2 -> 6 ;
+11 [label="VS_Frais_routes_nationales-Surveillance Policiere <= 0.008\nmse = 699.44\nsamples = 5\nvalue = 530.6"] ;
+1 -> 11 ;
+12 [label="(...)"] ;
+11 -> 12 ;
+15 [label="(...)"] ;
+11 -> 15 ;
+20 [label="VS_Frais_routes_cantonales-Acquisition <= 0.004\nmse = 1424.222\nsamples = 9\nvalue = 752.0"] ;
+0 -> 20 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+21 [label="VS_Frais_routes_communales-Depense_habitants <= 0.001\nmse = 56.25\nsamples = 2\nvalue = 813.5"] ;
+20 -> 21 ;
+22 [label="(...)"] ;
+21 -> 22 ;
+23 [label="(...)"] ;
+21 -> 23 ;
+24 [label="VS_Frais_routes_cantonales-Acquisition <= 0.008\nmse = 425.673\nsamples = 7\nvalue = 734.429"] ;
+20 -> 24 ;
+25 [label="(...)"] ;
+24 -> 25 ;
+28 [label="(...)"] ;
+24 -> 28 ;
+}

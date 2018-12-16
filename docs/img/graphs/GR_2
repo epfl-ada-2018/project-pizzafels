@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="GR_cylindre_de 1800 à 1999 cm3 <= 0.04\nmse = 9316.987\nsamples = 20\nvalue = 641.25"] ;
+1 [label="GR_boite_Automatique <= 0.03\nmse = 2224.667\nsamples = 9\nvalue = 544.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="GR_carosserie_Break <= 0.05\nmse = 714.688\nsamples = 4\nvalue = 590.75"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+6 [label="(...)"] ;
+2 -> 6 ;
+9 [label="GR_Besoin_sante-besoin_par_habitant <= 0.002\nmse = 285.44\nsamples = 5\nvalue = 506.6"] ;
+1 -> 9 ;
+10 [label="(...)"] ;
+9 -> 10 ;
+11 [label="(...)"] ;
+9 -> 11 ;
+16 [label="GR_Frais_routes_nationales-Surveillance Policiere <= 0.022\nmse = 1050.694\nsamples = 11\nvalue = 720.818"] ;
+0 -> 16 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+17 [label="GR_carburant_Diesel <= 0.008\nmse = 173.04\nsamples = 5\nvalue = 751.4"] ;
+16 -> 17 ;
+18 [label="(...)"] ;
+17 -> 18 ;
+25 [label="(...)"] ;
+17 -> 25 ;
+26 [label="GR_Recettes_routes-Total taxes <= 0.115\nmse = 353.222\nsamples = 6\nvalue = 695.333"] ;
+16 -> 26 ;
+27 [label="(...)"] ;
+26 -> 27 ;
+30 [label="(...)"] ;
+26 -> 30 ;
+}

@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="ZG_Frais_routes_nationales-Constructions <= 0.004\nmse = 686.66\nsamples = 20\nvalue = 310.2"] ;
+1 [label="ZG_Frais_routes_nationales-Entretien Exploitation <= 0.018\nmse = 106.96\nsamples = 5\nvalue = 271.8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="ZG_Frais_routes_communales-Entretien Exploitation <= 0.086\nmse = 8.222\nsamples = 3\nvalue = 279.333"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+7 [label="ZG_Frais_routes_nationales-Constructions <= 0.0\nmse = 42.25\nsamples = 2\nvalue = 260.5"] ;
+1 -> 7 ;
+8 [label="(...)"] ;
+7 -> 8 ;
+9 [label="(...)"] ;
+7 -> 9 ;
+10 [label="ZG_boite_Automatique <= 0.103\nmse = 224.533\nsamples = 15\nvalue = 323.0"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+11 [label="ZG_Frais_routes_nationales-Améliorations <= 0.001\nmse = 41.938\nsamples = 8\nvalue = 311.25"] ;
+10 -> 11 ;
+12 [label="(...)"] ;
+11 -> 12 ;
+21 [label="(...)"] ;
+11 -> 21 ;
+24 [label="ZG_Frais_routes_cantonales-Constructions <= 0.004\nmse = 95.102\nsamples = 7\nvalue = 336.429"] ;
+10 -> 24 ;
+25 [label="(...)"] ;
+24 -> 25 ;
+26 [label="(...)"] ;
+24 -> 26 ;
+}

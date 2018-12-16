@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="SO_cylindre_jusqu'à 1399 cm3 <= 0.0\nmse = 12420.627\nsamples = 20\nvalue = 811.35"] ;
+1 [label="SO_carburant_Electrique <= 0.0\nmse = 3260.729\nsamples = 15\nvalue = 867.267"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="SO_Frais_routes_nationales-Administration <= 0.001\nmse = 1551.743\nsamples = 12\nvalue = 889.417"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+10 [label="(...)"] ;
+2 -> 10 ;
+25 [label="SO_Frais_routes_cantonales-Amélio- <= 0.049\nmse = 284.222\nsamples = 3\nvalue = 778.667"] ;
+1 -> 25 ;
+26 [label="(...)"] ;
+25 -> 26 ;
+27 [label="(...)"] ;
+25 -> 27 ;
+30 [label="SO_Recettes_routes-Total <= 0.263\nmse = 2380.24\nsamples = 5\nvalue = 643.6"] ;
+0 -> 30 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+31 [label="SO_Frais_routes_communales-Améliorations <= 0.057\nmse = 214.889\nsamples = 3\nvalue = 606.333"] ;
+30 -> 31 ;
+32 [label="(...)"] ;
+31 -> 32 ;
+35 [label="(...)"] ;
+31 -> 35 ;
+36 [label="SO_Besoin_sante-Administration Prevention <= 0.0\nmse = 420.25\nsamples = 2\nvalue = 699.5"] ;
+30 -> 36 ;
+37 [label="(...)"] ;
+36 -> 37 ;
+38 [label="(...)"] ;
+36 -> 38 ;
+}

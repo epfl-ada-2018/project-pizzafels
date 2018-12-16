@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="BE_Frais_routes_nationales-Administration <= 0.0\nmse = 73473.69\nsamples = 20\nvalue = 2876.1"] ;
+1 [label="BE_Frais_routes_communales-Administration <= 0.01\nmse = 5951.859\nsamples = 8\nvalue = 2571.875"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="BE_total_Voitures <= 0.274\nmse = 2601.0\nsamples = 2\nvalue = 2681.0"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+5 [label="BE_Recettes_routes-Total taxes <= 0.153\nmse = 1776.25\nsamples = 6\nvalue = 2535.5"] ;
+1 -> 5 ;
+6 [label="(...)"] ;
+5 -> 6 ;
+9 [label="(...)"] ;
+5 -> 9 ;
+16 [label="BE_traction_Traction avant <= 0.2\nmse = 15651.743\nsamples = 12\nvalue = 3078.917"] ;
+0 -> 16 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+17 [label="BE_carburant_Autres <= 0.0\nmse = 4964.75\nsamples = 8\nvalue = 3004.5"] ;
+16 -> 17 ;
+18 [label="(...)"] ;
+17 -> 18 ;
+29 [label="(...)"] ;
+17 -> 29 ;
+32 [label="BE_carosserie_Limousine <= 0.21\nmse = 3798.688\nsamples = 4\nvalue = 3227.75"] ;
+16 -> 32 ;
+33 [label="(...)"] ;
+32 -> 33 ;
+36 [label="(...)"] ;
+32 -> 36 ;
+}

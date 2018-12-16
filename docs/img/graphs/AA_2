@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="AA_carburant_Electrique <= 0.0\nmse = 340.928\nsamples = 20\nvalue = 119.85"] ;
+1 [label="AA_Frais_routes_cantonales-Administration <= 0.02\nmse = 105.316\nsamples = 15\nvalue = 128.533"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="AA_Recettes_routes-Total contributions <= 0.137\nmse = 50.65\nsamples = 10\nvalue = 123.5"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+4 [label="(...)"] ;
+2 -> 4 ;
+17 [label="AA_Besoin_sante-Soins hopitaux <= 0.0\nmse = 62.64\nsamples = 5\nvalue = 138.6"] ;
+1 -> 17 ;
+18 [label="(...)"] ;
+17 -> 18 ;
+23 [label="(...)"] ;
+17 -> 23 ;
+24 [label="AA_Recettes_routes-Total taxes <= 0.189\nmse = 142.96\nsamples = 5\nvalue = 93.8"] ;
+0 -> 24 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+25 [label="AA_cylindre_de 1800 à 1999 cm3 <= 0.075\nmse = 2.25\nsamples = 2\nvalue = 107.5"] ;
+24 -> 25 ;
+26 [label="(...)"] ;
+25 -> 26 ;
+27 [label="(...)"] ;
+25 -> 27 ;
+28 [label="AA_carburant_Electrique <= 0.0\nmse = 28.222\nsamples = 3\nvalue = 84.667"] ;
+24 -> 28 ;
+29 [label="(...)"] ;
+28 -> 29 ;
+32 [label="(...)"] ;
+28 -> 32 ;
+}

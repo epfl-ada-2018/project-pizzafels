@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="OW_cylindre_de 1400 à 1799 cm3 <= 0.043\nmse = 241.89\nsamples = 20\nvalue = 90.1"] ;
+1 [label="OW_Frais_routes_nationales-Administration <= 0.004\nmse = 107.129\nsamples = 15\nvalue = 96.933"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="OW_Besoin_sante-Administration Prevention <= 0.0\nmse = 54.806\nsamples = 12\nvalue = 93.167"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+16 [label="(...)"] ;
+2 -> 16 ;
+25 [label="OW_Frais_routes_communales-Depense_habitants <= 0.004\nmse = 32.667\nsamples = 3\nvalue = 112.0"] ;
+1 -> 25 ;
+26 [label="(...)"] ;
+25 -> 26 ;
+29 [label="(...)"] ;
+25 -> 29 ;
+30 [label="OW_Recettes_routes-Total taxes <= 0.116\nmse = 85.84\nsamples = 5\nvalue = 69.6"] ;
+0 -> 30 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+31 [label="OW_Frais_routes_communales-Depense_habitants <= 0.004\nmse = 0.25\nsamples = 2\nvalue = 80.5"] ;
+30 -> 31 ;
+32 [label="(...)"] ;
+31 -> 32 ;
+33 [label="(...)"] ;
+31 -> 33 ;
+34 [label="OW_carosserie_Break <= 0.091\nmse = 10.889\nsamples = 3\nvalue = 62.333"] ;
+30 -> 34 ;
+35 [label="(...)"] ;
+34 -> 35 ;
+36 [label="(...)"] ;
+34 -> 36 ;
+}

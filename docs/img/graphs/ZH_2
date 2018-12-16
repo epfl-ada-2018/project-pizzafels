@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="ZH_cylindre_jusqu'à 1399 cm3 <= 0.0\nmse = 34448.9\nsamples = 20\nvalue = 3179.0"] ;
+1 [label="ZH_carburant_Autres <= 0.0\nmse = 16642.413\nsamples = 11\nvalue = 3308.364"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="ZH_Frais_routes_nationales-Administration <= 0.001\nmse = 9364.139\nsamples = 6\nvalue = 3399.167"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+12 [label="(...)"] ;
+2 -> 12 ;
+13 [label="ZH_Frais_routes_cantonales-Acquisition <= 0.001\nmse = 3609.04\nsamples = 5\nvalue = 3199.4"] ;
+1 -> 13 ;
+14 [label="(...)"] ;
+13 -> 14 ;
+19 [label="(...)"] ;
+13 -> 19 ;
+22 [label="ZH_Longueur_routes-Routes nationales <= 0.0\nmse = 10759.432\nsamples = 9\nvalue = 3020.889"] ;
+0 -> 22 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+23 [label="ZH_carburant_Autres <= 0.003\nmse = 2338.889\nsamples = 3\nvalue = 3133.667"] ;
+22 -> 23 ;
+24 [label="(...)"] ;
+23 -> 24 ;
+27 [label="(...)"] ;
+23 -> 27 ;
+28 [label="ZH_Frais_routes_nationales-Entretien Construction <= 0.038\nmse = 5430.583\nsamples = 6\nvalue = 2964.5"] ;
+22 -> 28 ;
+29 [label="(...)"] ;
+28 -> 29 ;
+34 [label="(...)"] ;
+28 -> 34 ;
+}

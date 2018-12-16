@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="NW_Besoin_sante-Administration Prevention <= 0.0\nmse = 184.11\nsamples = 20\nvalue = 94.7"] ;
+1 [label="NW_Frais_routes_communales-Acquisition <= 0.0\nmse = 105.76\nsamples = 5\nvalue = 110.8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="mse = 0.0\nsamples = 1\nvalue = 127.0"] ;
+1 -> 2 ;
+3 [label="NW_Besoin_sante-Soins domicile <= 0.0\nmse = 50.188\nsamples = 4\nvalue = 106.75"] ;
+1 -> 3 ;
+4 [label="(...)"] ;
+3 -> 4 ;
+7 [label="(...)"] ;
+3 -> 7 ;
+10 [label="NW_Frais_routes_communales-Entretien Construction <= 0.003\nmse = 95.022\nsamples = 15\nvalue = 89.333"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+11 [label="NW_traction_Traction arrière <= 0.025\nmse = 16.0\nsamples = 2\nvalue = 108.0"] ;
+10 -> 11 ;
+12 [label="(...)"] ;
+11 -> 12 ;
+13 [label="(...)"] ;
+11 -> 13 ;
+14 [label="NW_Longueur_routes-Routes nationales <= 0.0\nmse = 45.325\nsamples = 13\nvalue = 86.462"] ;
+10 -> 14 ;
+15 [label="(...)"] ;
+14 -> 15 ;
+28 [label="(...)"] ;
+14 -> 28 ;
+}
