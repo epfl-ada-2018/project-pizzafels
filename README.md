@@ -19,6 +19,10 @@ The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 part
 3) Predictions of the number of accidents using machine learning techniques.  
 4) Recommendations to the government/the cantons.
 
+## Data Story
+
+Our data Story was made with `Jekyll`and can be found [here](https://www.bfs.admin.ch/bfs/en/home.assetdetail.1400701.html) 
+
 ## Contributions
 Adrien: Correlations research and profiles analysis, Data Story.  
 Clément: Data cleaning, Predictions analysis, Set up the Data Story.  
