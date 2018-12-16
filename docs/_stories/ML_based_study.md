@@ -29,7 +29,7 @@ In addition to its good performance, our selected method also provides visual de
 </p>
 <br />
 
-On previous graph, the top level features are 'electric fuel' at level 0, 'diesel fuel' and 'cantonal road expenses' at level 1. 
+On previous graph, the top level features are 'electric fuel' at level 0, 'total road profits' and 'cantonal road expenses' at level 1. 
 
 #### What are the main factors influencing the number of accidents per canton?
 
