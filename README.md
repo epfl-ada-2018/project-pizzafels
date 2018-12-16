@@ -16,7 +16,9 @@ All datasets used in this study were collected on the Federal Statistical Office
 ## Research question
 
 After the prior analyses of the data we had, it appeared we had to slightly modify our initial plan for it to be doable. We thus reformulated our research question as follows:  
+
 **What would our recommendations to the Swiss government/the cantons to reduce the number of victims be?**  
+
 _Spoiler Alert_: We found out they should increase the budget dedicated to the roads (maintenance, security, ...).
 
 ## Final Notebook
