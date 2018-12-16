@@ -24,6 +24,7 @@ Adrien: Correlations research and profiles analysis, Data Story
 Clément: Data cleaning, Predictions analysis, Set up the Data Story
 Loris: Correlations research, Made the final notebook by putting everything together
 
+<!---
 %## Milestone 2
 
 %We cleaned the chosen datasets to start our analysis. This allowed us to have a better insight on what is and isn't possible to do with %it. We can thus give a first answer to our original research questions, as presented below.
@@ -61,3 +62,4 @@ Loris: Correlations research, Made the final notebook by putting everything toge
 %- [Recettes des cantons pour les routes](https://www.bfs.admin.ch/bfs/en/home.assetdetail.5286939.html )
 %- [Besoins financiers nets des cantons et des communes pour la santé - Total](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-%datenbanken/medienmitteilungen.assetdetail.6386476.html)
 %- [Routes nationales par canton: longueur totale par type de route](https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-%banques-%donnees/tableaux.assetdetail.3644575.html)
+-->
