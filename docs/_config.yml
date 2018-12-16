@@ -29,12 +29,13 @@ social:
     url: https://github.com/epfl-ada-2018/project-pizzafels
 
 parts: #You can add a category here : nothing than these two lines
-  - cat_tag: 'description'
-    cat_name: 'Description'
+
+  - cat_tag: 'investigation'
+    cat_name: 'Investigation'
+  - cat_tag: 'ML_based_study'
+    cat_name: 'ML Study'
   - cat_tag: 'correlation'
     cat_name: 'Correlation'
-  - cat_tag: 'prediction'
-    cat_name: 'Prediction'
     
 collections:
   - stories

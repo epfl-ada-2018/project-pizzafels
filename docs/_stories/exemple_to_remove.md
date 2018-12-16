@@ -2,7 +2,7 @@
 layout: default
 category: description 
 title: Exemple part 
-id: 1 
+id: 1
 ---
 <!--- category : Enter the category here in description, correlation, prediction. You can create new ones in '_config.yml' -->
 <!--- title : Set the name to the precise part -->
