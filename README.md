@@ -1,18 +1,23 @@
 # Car accidents in Switzerland
 
-## Abstract
+Semester project for the Applied Data Analysis class realized by the __Pizzafels__:
+- Di Natale Loris
+- Grand Clément
+- Legrain Adrien
 
-​	In 2017, there were 17,799 accidents on Swiss roads causing body injuries. Even though the number of victims is decreasing since 25 years, Switzerland still faces around 20,000 victims each year. In this data story, we try to investigate different factors influencing car accidents such as the driver profile or the car type. Identifying which profiles are more dangerous is an interesting result for policy makers and insurance companies, considering an annual cost of car accidents equal to 4 billion francs. Factors of difference between each profile are also a targeted to tackle the issue at its roots. We then focus our analysis on the cantonal level, since Swiss cantons benefit from a high political responsibility. Studying the distribution of accidents at this scale is therefore valuable.
+## Introduction
+
+In 2017, there were 17,799 accidents on Swiss roads causing body injuries. Even though the number of victims is decreasing since 25 years, Switzerland still faces around 20,000 victims each year. In this data story, we try to investigate different factors influencing car accidents such as the driver profile or the car type. Identifying which profiles are more dangerous is an interesting result for policy makers and insurance companies, considering an annual cost of car accidents equal to 4 billion francs. Factors of difference between each profile are also a targeted to tackle the issue at its roots. We then focus our analysis on the cantonal level, since Swiss cantons benefit from a high political responsibility. Studying the distribution of accidents at this scale is therefore valuable.
 
 ## Data
 
-All datasets used in this study were collected on the Federal Statistical Office website. We needed a lot of preprocessing to clean the tens of data sets we retrieved and identify the ones we wanted to keep in our analysis.
+All datasets used in this study were collected on the Federal Statistical Office website. After a lot of preprocessing to clean the tens of data sets we retrieved, we identify the ones we wanted to keep in our analysis. We kept almost 20 sets giving us various information about different factors related to the car accidents on the national and/or cantonal level.
 
 ## Research question
 
-After the prior analyses of the data we had, it appeared we had to slightly modify our first plan. Alltogether, we can now reformulate our research question as follows:  
-**What would be our recommendations to the Swiss government/the cantons to reduce the number of victims?**  
-Spoiler Alert: We found out they should increase the budget dedicated to the roads (maintenance, security, ...).
+After the prior analyses of the data we had, it appeared we had to slightly modify our initial plan for it to be doable. We thus reformulated our research question as follows:  
+**What would our recommendations to the Swiss government/the cantons to reduce the number of victims be?**  
+_Spoiler Alert_: We found out they should increase the budget dedicated to the roads (maintenance, security, ...).
 
 ## Final Notebook
 
@@ -20,7 +25,7 @@ The final notebook `Milestone3 - Complete Analysis.ipynb` is separated in 4 part
 1) Analysis of the acccidents at the national level (When, Where do accidents happen, Who was driving, ...).  
 2) Cantonal refinement: Can we find good features with a signficant correlation to the number of accidents?  
 3) Predictions of the number of accidents using machine learning techniques.  
-4) Recommendations to the government/the cantons.
+4) Conclusion: Our recommendations to the government/the cantons.
 
 ## Data Story
 
