@@ -33,4 +33,8 @@ For each canton, the most influent factors are the ones from top levels of the d
 
 **Dynamic tool de BG**
 
+<p align="center">
+<iframe src="img/plotly/htmlTEST.html" height="320" width="90%"></iframe>
+</p>
+<br />
 
