@@ -34,7 +34,7 @@ Below, we can see the map of road distance per canton, as well as the plot of ca
 </div>
 <br /> 
 
-A clear negative correlation between road expenses and car accidents appears. One could argue that it is because roads become safier with more spendings in the renovation, however we are only showing a correlation here, and not an explicit relation of causality. The number of accidents might have decreased in the time for other reasons than an increase in road expenses. 
+A clear negative correlation between road expenses and car accidents appears. This comes to confirm the previous model showing that 'road expenses' were the most influent in car accidents. Logically, the correlation is negative, which means that the more cantons are investing in road infrastructure, and the safer roads become. 
 
 <br />
 ### Correlation with cantonal police expenses
